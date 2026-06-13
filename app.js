@@ -12,7 +12,7 @@ const path = require("path");
 //we use ejs-mate for styling
 const ejsMate = require("ejs-mate")
 const methodoverride = require("method-override");
-const MONGO_URL = "mongodb://127.0.0.1:27017/wanderlust2";
+const MONGO_URL = "mongodb+srv://sachin912325_db_user:kVyv5uaWKD8staLA@airbnb.2a9qthb.mongodb.net/";
 const ExpressError = require("./utils/ExpressError.js");
 
 //passport
